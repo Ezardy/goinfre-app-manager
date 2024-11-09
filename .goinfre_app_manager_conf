@@ -1,0 +1,4 @@
+ROOT=~/goinfre/goinfre_app_manager
+DOWNLOADS_DIR="$ROOT/Downloads"
+POSTSCRIPTS_DIR="$ROOT/PostScripts"
+FETCHSCRIPTS_DIR="$ROOT/FetchScripts"
